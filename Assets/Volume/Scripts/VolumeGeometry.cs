@@ -97,7 +97,7 @@ public class VolumeGeometry : MonoBehaviour {
         Renderer rend = GetComponent<Renderer>();
         rend.sharedMaterial = new Material(VolumeShader);
         rend.sharedMaterial.mainTexture = VolumeTexture;
-        rend.sharedMaterial.SetFloat("_Displacement", 100.0f);
+        rend.sharedMaterial.SetFloat("_Displacement", 220.0f);
 
     }
 }
