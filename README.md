@@ -1,6 +1,6 @@
 # Volume Unity Plugin
 
-A Unity3D plugin for rendering [Volume](https://volume.gl) assets. [Volume](https://volume.gl) is a machine learning driven tool, for reconstructing 2D images and videos in 3D space. For early acsses to our beta email us at [](https://v)
+A Unity3D plugin for rendering [Volume](https://volume.gl) assets. [Volume](https://volume.gl) is a machine learning driven tool, for reconstructing 2D images and videos in 3D space. For early acsses to the beta email us at [this email](hello@volume.gl)
 
 1. [Usage](#usage)
 1. [Contents](#contents)
