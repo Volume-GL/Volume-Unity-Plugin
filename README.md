@@ -14,9 +14,12 @@ A Unity3D plugin for rendering [Volume](https://volume.gl) assets. [Volume](http
 Use [this link](https://github.com/Volume-GL/Volume-Unity-Plugin/releases) to download the latest release of the plugin as a ```.unitypackage```
 
 Once unpacked you will have a folder structure organized in the following order:
-- Perfabs
-- Scenes
-- Materials
-- Sample
+- Volume
+  - Addons
+  - Perfabs
+  - Scenes
+  - Materials
+  - Shaders
+  - Sample
 
 Use the example scene found in ```Scenes/``` or just add the ```Volume Image``` prefab to your pre-existing scene.
