@@ -1,6 +1,7 @@
 # Volume Unity Plugin
 
 1. [Usage](#usage)
+1. [Releases](https://github.com/Volume-GL/Volume-Unity-Plugin/releases)
 1. [Support](#support)
 1. [License](#license)
 
