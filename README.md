@@ -23,3 +23,7 @@ Once unpacked you will have a folder structure organized in the following order:
   - Sample
 
 Use the example scene found in ```Scenes/``` or just add the ```Volume Image``` prefab to your pre-existing scene.
+
+To load assets exported from the Make interface, import them to Unity and change the ```Volume Texture``` field in the ```Volume Image``` GameObject to reflect your image.
+
+![Plugin texture change](https://github.com/Volume-GL/Volume-Unity-Plugin/blob/master/Docs/plugin.png)
