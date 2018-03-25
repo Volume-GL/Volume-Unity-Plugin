@@ -1,11 +1,10 @@
 # Volume Unity Plugin
 
 1. [Usage](#usage)
-1. [Contents](#contents)
 1. [Support](#support)
 1. [License](#license)
 
-![Unity screenshot](https://github.com/Volume-GL/Volume-Unity-Plugin/blob/master/Docs/unity.png)
+![Unity scene](https://github.com/Volume-GL/Volume-Unity-Plugin/blob/master/Docs/scene.gif)
 
 A Unity3D plugin for rendering [Volume](https://volume.gl) assets. [Volume](https://volume.gl) is a machine learning driven tool, for reconstructing 2D images and videos in 3D space. For early acsses to the beta email us at [this email](hello@volume.gl)
 
@@ -27,3 +26,14 @@ Use the example scene found in ```Scenes/``` or just add the ```Volume Image``` 
 To load assets exported from the Make interface, import them to Unity and change the ```Volume Texture``` field in the ```Volume Image``` GameObject to reflect your image.
 
 ![Plugin texture change](https://github.com/Volume-GL/Volume-Unity-Plugin/blob/master/Docs/plugin.png)
+
+### Example content
+We provide a sample scene with a sample Volume asset and mouse/keyboard controls under ```Scenes/Volume Example```
+
+![Unity screenshot](https://github.com/Volume-GL/Volume-Unity-Plugin/blob/master/Docs/unity.png)
+
+## Support
+For further support reach out to us at [hello@volume.gl](hello@volume.gl) 👋 
+
+## License
+> TO-DO
