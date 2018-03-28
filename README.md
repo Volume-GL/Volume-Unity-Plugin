@@ -37,4 +37,4 @@ We provide a sample scene with a sample Volume asset and mouse/keyboard controls
 For further support reach out to us at [hello@volume.gl](hello@volume.gl) 👋 
 
 ## License
-> TO-DO
+[Here](https://github.com/Volume-GL/Volume-Unity-Plugin/blob/master/LICENSE)
