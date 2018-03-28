@@ -7,7 +7,7 @@
 
 ![Unity scene](https://github.com/Volume-GL/Volume-Unity-Plugin/blob/master/Docs/scene.gif)
 
-A Unity3D plugin for rendering [Volume](https://volume.gl) assets. [Volume](https://volume.gl) is a machine learning driven tool, for reconstructing 2D images and videos in 3D space. For early acsses to the beta email us at [this email](hello@volume.gl)
+A Unity3D plugin for rendering [Volume](https://volume.gl) assets. [Volume](https://volume.gl) is a machine learning driven tool, for reconstructing 2D images and videos in 3D space. For early acsses to the beta email us at [this email](#support)
 
 ## Usage
 
